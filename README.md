@@ -17,16 +17,15 @@ Interface (The Face): Provides an interactive web dashboard built with Streamlit
 Language: Python 3.12
 
 AI/ML: Transformers, PyTorch
-
 Data: Pandas, NumPy
-
 Cloud: GitHub Actions (CI/CD)
-
 UI: Streamlit, Plotly
 
 📂 Project Structure
+
 engine/: Contains the scraper and AI sentiment logic.
-
 ui/: The Streamlit dashboard interface.
-
 .github/workflows/: Cloud automation scripts for scheduled runs.
+
+## 🌐 Live Dashboard
+Check out the live AI analysis here: [Launch AI-Market Pulse](https://ai-market-pulse.streamlit.app/)
