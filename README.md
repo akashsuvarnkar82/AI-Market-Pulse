@@ -24,7 +24,9 @@ UI: Streamlit, Plotly
 📂 Project Structure
 
 engine/: Contains the scraper and AI sentiment logic.
+
 ui/: The Streamlit dashboard interface.
+
 .github/workflows/: Cloud automation scripts for scheduled runs.
 
 ## 🌐 Live Dashboard
