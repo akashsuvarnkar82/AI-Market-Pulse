@@ -1,9 +1,15 @@
+import sys
+import os
+# This line tells the Cloud to look at the main project folder for your code
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-# Import your Day 2 engine functions
 from engine.scraper import fetch_market_news
 from engine.analyzer import analyze_headlines
+
+# ... rest of your code ...
 
 st.set_page_config(page_title="AI-Market Pulse", page_icon="📈", layout="wide")
 
