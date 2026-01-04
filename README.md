@@ -30,4 +30,4 @@ ui/: The Streamlit dashboard interface.
 .github/workflows/: Cloud automation scripts for scheduled runs.
 
 ## 🌐 Live Dashboard
-Check out the live AI analysis here: [Launch AI-Market Pulse](https://ai-market-pulse.streamlit.app/)
+Check out the live AI analysis here: [Launch AI-Market Pulse](https://ai-market-pulse-4zqwp8de6l9khwaiioqhxe.streamlit.app/)
